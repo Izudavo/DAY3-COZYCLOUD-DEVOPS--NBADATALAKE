@@ -45,18 +45,18 @@ DAY3-COZYCLOUD-DEVOPS--NBADATALAKE/
 
 ## **Setup Instructions**
 
-This project walk through was guided from REX TECH, although its repo project was centered on NBA live scores update, but still clone the repo to get started and veiw the walk through steps.
+This project walk through was guided from Alah1,
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/ifeanyiro9/game-day-notifications.git
-cd game-day-notifications
+https://github.com/alahl1/NBADataLake
+
 ```
 
 ### **Challenges**
 
-Challenges is a core of devops encounter, it helps gain indepth understamding of whatever project is being worked on, i encountered a few configuring the API call from football-data.org, but after taking a break and coming back to it with some chatgpt reviews and reading, the ride was made possible and delivered successfully.
+Had a little bit of hurdles deploying on the AWS Cloudshell which was used for used for this project, but using GitBash i was able to walkthrough and deployed!
 
 A screenshot of AWS SNS alert received from the API call is attached to this repo.
 
-Have fun coding in the Cloud!!!
+Glad to be a part of this CozyClod_DevopsAllStarsChallenge_Crew, Kudos once again!!!
