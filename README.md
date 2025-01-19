@@ -30,15 +30,17 @@ This project is serves as a storage solution to store NBA team scores standings 
 
 ## **Project Structure**
 ```bash
-mymatchdayfootball-notifications/
-├── src/
-│   ├── lambda_functions.py          # Main Lambda function code
+DAY3-COZYCLOUD-DEVOPS--NBADATALAKE/
 ├── policies/
-│   ├── matchday_sns_policy.json           # SNS publishing permissions
-│   ├── matchdayfootball_rule.json   # EventBridge to Lambda permissions
-│   └── matchdayfootball_role.json        # Lambda execution role permissions
-├── .gitignore
-└── README.md                        # Project documentation
+│   ├── IAM_Role         
+├── src/
+│   ├── .env           
+│   ├── delete.py  
+│   └── setup_nba_data_lake.py
+├── delete_aws_resources/
+
+      
+
 ```
 
 ## **Setup Instructions**
