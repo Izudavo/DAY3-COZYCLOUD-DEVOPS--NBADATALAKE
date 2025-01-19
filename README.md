@@ -45,7 +45,7 @@ DAY3-COZYCLOUD-DEVOPS--NBADATALAKE/
 
 ## **Setup Instructions**
 
-This project walk through was guided from Alah1,
+This project walk through was guided from Alahl1,
 
 ### **Clone the Repository**
 ```bash
