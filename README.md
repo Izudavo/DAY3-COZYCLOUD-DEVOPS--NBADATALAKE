@@ -47,7 +47,7 @@ DAY3-COZYCLOUD-DEVOPS--NBADATALAKE/
 
 This project walk through was guided from Alahl1,
 
-### **Clone the Repository**
+### **This is a Cloned Repository from: **
 ```bash
 https://github.com/alahl1/NBADataLake
 
