@@ -47,12 +47,6 @@ DAY3-COZYCLOUD-DEVOPS--NBADATALAKE/
 
 This project walk through was guided from Alahl1,
 
-### **This is a Cloned Repository from: **
-```bash
-https://github.com/alahl1/NBADataLake
-
-```
-
 ### **Challenges**
 
 Had a little bit of hurdles deploying on the AWS Cloudshell which was used for used for this project, but using GitBash i was able to walkthrough and deployed!
